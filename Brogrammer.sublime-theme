@@ -637,16 +637,24 @@
 // SIDEBAR - GENERAL FILE ICONS
 //
     {
-        "class": "icon_file_type",
-        "content_margin": [0,0]
+       "class": "icon_file_type",
+       "settings": ["Brogrammer_sb_no_icons"],
+       "content_margin": 0
     },
     {
-        "class": "icon_folder",
-        "content_margin": [0,0]
+       "class": "icon_file_type",
+       "settings": ["Brogrammer_sb_blank"],
+       "content_margin": 0
     },
     {
-        "class": "icon_folder_loading",
-        "content_margin": [0,0]
+       "class": "icon_folder",
+       "settings": ["Brogrammer_sb_blank"],
+       "content_margin": 0
+    },
+    {
+       "class": "icon_folder_loading",
+       "settings": ["Brogrammer_sb_blank"],
+       "content_margin": 0
     },
     // Sidebar group closed
     {

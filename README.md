@@ -1,7 +1,32 @@
+# NOTE
+
+Fork of the Brogrammer theme mixed with the awesome [Seti_UI](https://github.com/jesseweed/seti-ui)
+theme made for Atom and [ported to ST3](https://github.com/ctf0/Seti_ST3).
+
+## Changes
+
+- Added bigger tab icons for changed files (make it easier to notice)
+- Added the sidebar icons by file type (from Seti_UI theme).
+
+To disable the sidebar icons, use these settings:
+
+```
+{
+	"Brogrammer_sb_no_icons": true,
+	"Brogrammer_sb_blank": true
+}
+```
+
+
 # Brogrammer
 
 Brogrammer is a flat sexy theme. Pushups not included.
 
+### Modified:
+
+![Brogrammer Screenshot](https://raw.github.com/darlanalves/brogrammer-theme/master/brogrammer.png)
+
+### Original:
 ![Brogrammer Screenshot](http://i.imgur.com/7EPa8Wm.png)
 ![Brogrammer Screenshot](http://i.imgur.com/hXE6jYP.png)
 
